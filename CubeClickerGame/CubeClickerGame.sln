@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeClickerGame.CSharp", "CubeClickerGame.CSharp.csproj", "{68991780-4293-DE26-C4DD-EB9EC9AF7C1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeClickerGame.CSharp.Editor", "CubeClickerGame.CSharp.Editor.csproj", "{EC9A423B-FB36-9149-F423-86036620477A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68991780-4293-DE26-C4DD-EB9EC9AF7C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68991780-4293-DE26-C4DD-EB9EC9AF7C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68991780-4293-DE26-C4DD-EB9EC9AF7C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68991780-4293-DE26-C4DD-EB9EC9AF7C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC9A423B-FB36-9149-F423-86036620477A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9A423B-FB36-9149-F423-86036620477A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9A423B-FB36-9149-F423-86036620477A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9A423B-FB36-9149-F423-86036620477A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
